@@ -1,0 +1,2 @@
+# the most results its very high from logistic regression with 99% 
+# with random_ state=42 its increases the accuracy results
