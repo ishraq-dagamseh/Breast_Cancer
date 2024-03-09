@@ -36,6 +36,7 @@ weighted avg       0.97      0.97      0.96       143
 
 
 with increasing number of random state its very benificial to increases the accuracy results
+###########################
 2. Breast Cancer regression using Logistic regression
 
 
@@ -46,12 +47,12 @@ We split dataset into 25% for testing and 85% for training and we found these re
 
  
 And the metrics results:
-precision    recall   f1-score   support
-           M       0.97            0.98       0.97        88
-           B        0.96            0.95       0.95        55
+           precision    recall   f1-score   support
+ M       0.97            0.98       0.97        88
+ B        0.96            0.95       0.95        55
 
-    accuracy                           0.97       143
-  macro avg       0.96       0.96       0.96        143
+ accuracy                           0.97       143
+ macro avg       0.96       0.96       0.96        143
 weighted avg       0.97      0.97      0.96       143
 
 With random_state =42
@@ -60,7 +61,7 @@ With random_state =42
  
 And confusion report Results:
 
-precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
            M       0.98      1.00      0.99        89
            B       1.00      0.96      0.98        54
@@ -71,6 +72,7 @@ weighted avg       0.99      0.99      0.99       143
 
 
 we concluded that number of random state its very affected 
+###########################
 3.Breast Cancer regression using MLR
 
 
