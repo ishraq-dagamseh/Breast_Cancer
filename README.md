@@ -1,5 +1,5 @@
 # Breast_Cancer
-We worked with structured data to predict existing of brast cancer or not based on some features, like:radius_mean,	texture_mean	,perimeter_mean,	area_mean,	smoothness_mean,	compactness_mean,	concavity_mean,	concave points_mean,	symmetry_mean	,fractal_dimension_mean,	radius_se and more. using different Regression ML models.
+In this project, we worked with structured data to predict existing of brast cancer or not based on some features, like:radius_mean,	texture_mean	,perimeter_mean,	area_mean,	smoothness_mean,	compactness_mean,	concavity_mean,	concave points_mean,	symmetry_mean	,fractal_dimension_mean,	radius_se and more. using different Regression ML models.
 
 Results :
 
